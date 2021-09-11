@@ -3,7 +3,10 @@
 
 ## About 
 Web platformunda Spotify servisine erişerek türe göre ve şarkıcı adına göre arama yapabilirsiniz.
-Python programlama dili kullanılarak 'Flask' kütüphanesi ile yazılmıştır. 
+Python v3.9 programlama dili kullanılarak 'Flask' kütüphanesi ile yazılmıştır. 
+Arayüzler HTML,CSS ve JS ile yapılmıştır.
+
+Program, spotify API'a bağlanarak yapılan doğrulamanın sonucunda şarkı,albümler ve daha bir çok şeye erişim sağlamaktadır. 
 
 ## Setup
 Programın çalıştırılabilmesi için python ortamının hazırlanması gerekmektedir.
