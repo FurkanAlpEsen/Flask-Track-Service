@@ -2,7 +2,7 @@
  Python Spotify Track Service
 
 ## About 
-You can search by genre and artist name by accessing the Spotify service on the web platform.
+-You can search by genre and artist name by accessing the Spotify service on the web platform.
 Written with the 'Flask' library using the Python v3.9 programming language.
 Interfaces are made with HTML, CSS and JS.
 
@@ -17,7 +17,8 @@ You can search by song type and singer name via the radio buttons on the page th
 
 
 ##Extra
-The program contains all the details in the specified document.
+-The program contains all the details in the specified document.
+-While normally only the genre can be searched, it is also possible to search by the singer. The singers' IDs have already been taken from the system. The singers whose ID is not obtained from the API will return a blank screen as a result of the search. The song categories and the information about those genres are taken from the genres.json file.
 
 ## Packages
 Python Packages:
