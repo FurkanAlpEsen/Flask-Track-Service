@@ -16,4 +16,5 @@ The "flask run" command should be used to boot the entire system. The program wi
 You can search by song type and singer name via the radio buttons on the page that opens. After the search, you will see the details of the songs and many other things on the page that is directed. (http://127.0.0.1:5000/tracks/rock etc.) To make other searches, you need to return to the previous page, namely the main page.
 
 
-
+##Extra
+The program contains all the details in the specified document.
