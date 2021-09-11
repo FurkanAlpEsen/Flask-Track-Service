@@ -20,6 +20,8 @@ You can search by song type and singer name via the radio buttons on the page th
 -The program contains all the details in the specified document.
 -While normally only the genre can be searched, it is also possible to search by the singer. The singers' IDs have already been taken from the system. The singers whose ID is not obtained from the API will return a blank screen as a result of the search. The song categories and the information about those genres are taken from the genres.json file.
 
+-You can access to screen shots in "Screen Shots" folder
+
 ## Packages
 Python Packages:
 -Flask 
