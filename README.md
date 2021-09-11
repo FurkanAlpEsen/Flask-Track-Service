@@ -18,3 +18,8 @@ You can search by song type and singer name via the radio buttons on the page th
 
 ##Extra
 The program contains all the details in the specified document.
+
+## Packages
+Python Packages:
+-Flask 
+-JSON
